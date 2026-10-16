@@ -1,4 +1,11 @@
-# VOX 拼贴短视频工作流便捷包 · V3.41
+# VOX 拼贴短视频工作流 · V3.42
+
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Version](https://img.shields.io/badge/Version-V3.42-8A2BE2)
+![Python](https://img.shields.io/badge/Python-3.14+-3776AB?logo=python&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)
+![Renderer](https://img.shields.io/badge/Renderer-Pillow_%C2%B7_FFmpeg-2EA043)
+![Pre-render Gates](https://img.shields.io/badge/渲前硬门禁-20%2B_dc-critical)
 
 **copy 即用**：把整个文件夹复制到任何电脑 / 新工作区 / 另一个 Agent 软件，即可跑通"文案 → 配音 → 生图 → 剪纸 → 场景动效 → 渲染 → 成片 → 质检"全流程。**自包含**（含渲染器、创意契约、全部工具），不依赖外部技能目录。
 
