@@ -1,0 +1,25 @@
+# ═══ 敏感与隐私 —— 永不入库 ═══
+# 真实 API 密钥（用 .env.example 模板自建）
+.env
+# 真人 IP 素材（照片+姿态剪纸）与身份注册表 —— 本地私有资产
+ip_assets/
+ip_registry.json
+# 便携打包产物与脚本（zip 内含 .env；脚本引用本机私有路径）
+VOX-便携包-*.zip
+_pack_portable.py
+.stage_portable/
+
+# ═══ 生成物与缓存 ═══
+__pycache__/
+*.pyc
+# skill_sync push 生成的项目级镜像（clone 后执行 py scripts/skill_sync.py push 重建）
+.skill/
+# 生产工作目录（每部片一个，含本地渲染帧/中间产物）
+productionN/
+production*/
+qa/
+
+# ═══ 工作区元数据 ═══
+.workbuddy/
+.DS_Store
+Thumbs.db

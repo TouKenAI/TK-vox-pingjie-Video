@@ -1,0 +1,529 @@
+{
+ "films": {
+  "production11": {
+   "A1": "",
+   "A2": "",
+   "colors": {
+    "accent": "236,88,42",
+    "accent2": "46,132,180",
+    "bg": "226,238,226",
+    "fg": "24,38,46"
+   },
+   "easing": {
+    "ease-in": 20,
+    "ease-in-out": 26,
+    "ease-out": 73,
+    "ease-out-back": 22,
+    "fx:debris": 8,
+    "fx:radial-burst": 9,
+    "linear": 1
+   },
+   "fx": [
+    "debris",
+    "radial-burst"
+   ],
+   "has_scenes": true,
+   "hook": "其他",
+   "ip": true,
+   "metaphors": 7,
+   "num": 11,
+   "skeleton": "C",
+   "style_primary": "剪纸",
+   "totem": ""
+  },
+  "production12": {
+   "A1": "",
+   "A2": "",
+   "colors": {
+    "accent": "232,178,64",
+    "accent2": "168,58,110",
+    "bg": "26,38,68",
+    "fg": "240,232,214"
+   },
+   "easing": {
+    "ease-in": 17,
+    "ease-in-out": 35,
+    "ease-out": 81,
+    "ease-out-back": 22,
+    "fx:debris": 8,
+    "fx:radial-burst": 13
+   },
+   "fx": [
+    "debris",
+    "radial-burst"
+   ],
+   "has_scenes": true,
+   "hook": "否定纠正",
+   "ip": true,
+   "metaphors": 8,
+   "num": 12,
+   "skeleton": "A",
+   "style_primary": "浮世绘工笔",
+   "totem": ""
+  },
+  "production13": {
+   "A1": "",
+   "A2": "",
+   "colors": {
+    "accent": "0,186,198",
+    "accent2": "206,62,52",
+    "bg": "8,40,36",
+    "fg": "236,240,236"
+   },
+   "easing": {
+    "ease-in": 35,
+    "ease-in-out": 54,
+    "ease-out": 110,
+    "ease-out-back": 21,
+    "fx:debris": 12,
+    "fx:radial-burst": 24
+   },
+   "fx": [
+    "debris",
+    "radial-burst"
+   ],
+   "has_scenes": true,
+   "hook": "其他",
+   "ip": true,
+   "metaphors": 6,
+   "num": 13,
+   "skeleton": "C",
+   "style_primary": "等距2.5D",
+   "totem": ""
+  },
+  "production14": {
+   "A1": "",
+   "A2": "",
+   "colors": {
+    "accent": "60,180,255",
+    "accent2": "176,226,60",
+    "bg": "43,33,64",
+    "fg": "242,234,216"
+   },
+   "easing": {
+    "ease-in": 24,
+    "ease-in-out": 15,
+    "ease-out": 70,
+    "ease-out-back": 22,
+    "fx:debris": 7,
+    "fx:radial-burst": 14
+   },
+   "fx": [
+    "debris",
+    "radial-burst"
+   ],
+   "has_scenes": true,
+   "hook": "数字冲击",
+   "ip": true,
+   "metaphors": 15,
+   "num": 14,
+   "skeleton": "A",
+   "style_primary": "漫画网点",
+   "totem": ""
+  },
+  "production15": {
+   "A1": "",
+   "A2": "",
+   "colors": {
+    "accent": "255,107,61",
+    "accent2": "77,224,200",
+    "bg": "42,20,26",
+    "fg": "240,244,242"
+   },
+   "easing": {
+    "ease-in": 35,
+    "ease-in-out": 28,
+    "ease-out": 80,
+    "ease-out-back": 14,
+    "fx:debris": 1,
+    "fx:radial-burst": 14
+   },
+   "fx": [
+    "debris",
+    "radial-burst"
+   ],
+   "has_scenes": true,
+   "hook": "数字冲击",
+   "ip": true,
+   "metaphors": 8,
+   "num": 15,
+   "skeleton": "B",
+   "style_primary": "赛璐珞分层",
+   "totem": ""
+  },
+  "production16": {
+   "A1": "",
+   "A2": "",
+   "colors": {
+    "accent": "106,76,255",
+    "accent2": "228,55,123",
+    "bg": "233,231,222",
+    "fg": "23,26,34"
+   },
+   "easing": {
+    "ease-in": 6,
+    "ease-in-out": 30,
+    "ease-out": 61,
+    "ease-out-back": 33,
+    "fx:radial-burst": 17
+   },
+   "fx": [
+    "radial-burst"
+   ],
+   "has_scenes": true,
+   "hook": "其他",
+   "ip": true,
+   "metaphors": 10,
+   "num": 16,
+   "skeleton": "C",
+   "style_primary": "工程爆炸图",
+   "totem": ""
+  },
+  "production17": {
+   "A1": "**一间深夜的\"模型服务台\"**：台面后方堆着贴编号的纸箱（权重包），上方悬两块自发光菜单牌（Pro / Flash），台面正中一个**问题牌夹**，台口一台打小票的机器，顶灯打出一块圆形光斑，前景地面一条排队线。",
+   "A2": "① **等距无透视缩微场景**——所有物体走 30° 等距角，无灭点、无近大远小",
+   "colors": {
+    "accent": "217,164,0",
+    "accent2": "176,58,46",
+    "bg": "201,210,206",
+    "fg": "20,32,30"
+   },
+   "easing": {
+    "ease-in": 19,
+    "ease-in-out": 102,
+    "ease-out": 34,
+    "fx:debris": 1,
+    "fx:radial-burst": 3
+   },
+   "fx": [
+    "debris",
+    "radial-burst"
+   ],
+   "has_scenes": true,
+   "hook": "数字冲击",
+   "ip": false,
+   "metaphors": 4,
+   "num": 17,
+   "skeleton": "A",
+   "style_primary": "等距2.5D",
+   "totem": ""
+  },
+  "production18": {
+   "A1": "**一间传拓作坊的长案**：案心一块刻着字的木版、一方砚、一个拓包；案头一张刚揭下来的拓片，黑底白字还带着湿边。",
+   "A2": "① **拓片价值反转：深墨底 + 白凸字** —— 拓出来的纸是**黑底浅字**，与\"纸白墨字\"正好相反；全片文字层默认走这套",
+   "colors": {
+    "accent": "176,48,40",
+    "accent2": "56,102,120",
+    "bg": "24,26,28",
+    "fg": "236,232,222"
+   },
+   "easing": {
+    "ease-in": 28,
+    "ease-in-out": 105,
+    "ease-out": 117,
+    "fx:debris": 1
+   },
+   "fx": [
+    "debris"
+   ],
+   "has_scenes": true,
+   "hook": "悬念反问",
+   "ip": false,
+   "metaphors": 4,
+   "num": 18,
+   "skeleton": "C",
+   "style_primary": "国潮水墨",
+   "totem": ""
+  },
+  "production19": {
+   "A1": "**一块立在评测室里的白板**：板面左上有日光灯管打出的一道斜光，板面有擦不净的旧笔痕；",
+   "A2": "① **粗马克手绘线**——线**不等宽、有手抖、有涂改圈**（副风格预设明写\"细马克线易丢像素\"，一律走 PIL 矢量画，不走生图+洋红抠）",
+   "colors": {
+    "accent": "232,120,24",
+    "accent2": "20,140,132",
+    "bg": "238,243,247",
+    "fg": "24,32,48"
+   },
+   "easing": {
+    "ease-out": 18,
+    "linear": 206,
+    "pop_spring": 8
+   },
+   "fx": [],
+   "has_scenes": true,
+   "hook": "数字冲击",
+   "ip": false,
+   "metaphors": 3,
+   "num": 19,
+   "skeleton": "B",
+   "style_primary": "白板手绘",
+   "totem": ""
+  },
+  "production20": {
+   "A1": "**一块亮着的手机背屏，占满整个画面**。玻璃是深色近黑的青蓝，四角有大圆角，",
+   "A2": "① **纸片贴玻璃**——所有信息卡都是**带毛边撕口、带投影浮在玻璃上**的剪纸，不是 UI 截图；",
+   "colors": {
+    "accent": "40,190,220",
+    "accent2": "255,176,32",
+    "bg": "14,20,26",
+    "fg": "234,240,243"
+   },
+   "easing": {
+    "ease-in": 62,
+    "ease-in-out": 56,
+    "ease-out": 121,
+    "fx:radial-burst": 4,
+    "linear": 17
+   },
+   "fx": [
+    "radial-burst"
+   ],
+   "has_scenes": true,
+   "hook": "数字冲击",
+   "ip": false,
+   "metaphors": 5,
+   "num": 20,
+   "skeleton": "A",
+   "style_primary": "剪纸拼贴",
+   "totem": ""
+  },
+  "production21": {
+   "A1": "**一张冲印店的打样台**：上方一道金属出纸口，样张从里面吐出来滑到台面中央；台面右侧一支红 grease pencil 和一个压样夹；右下角常驻一条冲印打样条（色标 + 批号）。灯从左上打，纸边有投影，前后三层清楚（出纸口=后层、台面样张=中层、红笔与压夹=前层）。",
+   "A2": "1. **每一场都有一张样张从上方出纸口滑出来**——这是这个世界的呼吸，也是\"生成\"这个动作唯一诚实的画法（不是淡入、不是弹出）。",
+   "colors": {
+    "accent": "202,52,38",
+    "accent2": "0,116,138",
+    "bg": "238,224,196",
+    "fg": "30,27,24"
+   },
+   "easing": {
+    "ease-in": 34,
+    "ease-in-out": 32,
+    "ease-out": 83,
+    "fx:debris": 2,
+    "fx:radial-burst": 5,
+    "linear": 27
+   },
+   "fx": [
+    "debris",
+    "radial-burst"
+   ],
+   "has_scenes": true,
+   "hook": "数字冲击",
+   "ip": false,
+   "metaphors": 4,
+   "num": 21,
+   "skeleton": "B",
+   "style_primary": "剪纸拼贴",
+   "totem": ""
+  },
+  "production22": {
+   "A1": "填：**一间没有窗的档案库房——一整面木格卡片目录柜 + 一张堆满卷宗的读档台，头顶一盏吊灯把中心照亮，四周压暗。** 有光（吊灯锥 + 浮尘）、有空间（柜墙在后、台面在中、手与章在前）、有前后层（柜墙 / 摊开的卷宗 / 贴上来的标签与印章）。",
+   "A2": "填：① **一切信息都长在纸上**——卷宗、索引卡、标签条、牛皮纸信封，没有一块屏幕 UI（屏幕只属于副风格借来的那一小段数据流）",
+   "colors": {
+    "accent": "246,222,104",
+    "accent2": "96,28,30",
+    "bg": "150,150,120",
+    "fg": "22,26,24"
+   },
+   "easing": {
+    "ease-in": 50,
+    "ease-out": 83,
+    "ease-out-back": 83,
+    "fx:debris": 3,
+    "fx:radial-burst": 1,
+    "linear": 18
+   },
+   "fx": [
+    "debris",
+    "radial-burst"
+   ],
+   "has_scenes": true,
+   "hook": "数字冲击",
+   "ip": false,
+   "metaphors": 8,
+   "num": 22,
+   "skeleton": "B",
+   "style_primary": "复古报纸",
+   "totem": ""
+  },
+  "production23": {
+   "A1": "**小米之家门店的一张展机柜台**：浅豆绿裁纸墙 + 顶部一道撕纸雨棚 + 柜台上一排亮屏样机 + 玻璃反光里 ghosted 一枚超大价签。所有戏都发生在柜台台面和它前方半步，纸人主持站在柜台右前方。",
+   "A2": "1. **两部以上实体手机道具同时在场**（我的机 / 门店展机），且它们跨场反复出现，不是一次性图标；",
+   "colors": {
+    "accent": "240,140,22",
+    "accent2": "34,96,190",
+    "bg": "226,238,226",
+    "fg": "24,38,46"
+   },
+   "easing": {
+    "ease-in": 95,
+    "ease-in-out": 4,
+    "ease-out": 161,
+    "ease-out-back": 35,
+    "fx:debris": 5,
+    "fx:radial-burst": 6
+   },
+   "fx": [
+    "debris",
+    "radial-burst"
+   ],
+   "has_scenes": true,
+   "hook": "数字冲击",
+   "ip": false,
+   "metaphors": 11,
+   "num": 23,
+   "skeleton": "A",
+   "style_primary": "剪纸拼贴",
+   "totem": "一块侧过来会变暗的屏**（S04 转开 → S06 揭开百叶还是它 → S11 转回正面收束）。"
+  },
+  "production24": {
+   "A1": "夜色里的等距开发者园区**——一排亮着冷光的小房间：AI Gateway 机架房、评测天平台、装配工作台、Cline 工位、档案室、计价柜台；桌面上有键盘与咖啡杯，房间之间有发光数据流管线相连，金丝雀的栖木立在园区门口。有光（屏幕冷光+暖台灯）、有台面、有站得下纸人的地板。",
+   "A2": "① 一切物体沿 30° 等距网格，块体有厚度、左亮右暗双面受光",
+   "colors": {
+    "accent": "0,148,178",
+    "accent2": "130,190,60",
+    "bg": "228,234,240",
+    "fg": "26,34,48"
+   },
+   "easing": {
+    "ease-in": 21,
+    "ease-in-out": 37,
+    "ease-out": 64,
+    "fx:debris": 7,
+    "fx:radial-burst": 17
+   },
+   "fx": [
+    "debris",
+    "radial-burst"
+   ],
+   "has_scenes": true,
+   "hook": "其他",
+   "ip": false,
+   "metaphors": 7,
+   "num": 24,
+   "skeleton": "B",
+   "style_primary": "等距2.5D",
+   "totem": ""
+  },
+  "production25": {
+   "A1": "漫画分格里的夜色实验室**——一座悬浮的半调网点沙盒实验楼，粗黑分格框线切割画面，警报红与网点蓝撞色，楼顶一盏顶灯加一只旋转红色警报灯；框内有台面、有地板、有前后三格（背景楼体 / 中景沙盒台 / 前景机器人）。有光（顶灯冷光+警报红闪）、有台面、有站得下机器人的地板。",
+   "A2": "① 粗黑描边 + Ben-Day 半调网点（网点做中间调）",
+   "colors": {
+    "accent": "235,55,60",
+    "accent2": "60,130,235",
+    "bg": "26,28,38",
+    "fg": "242,238,228"
+   },
+   "easing": {
+    "ease-in": 9,
+    "ease-in-out": 31,
+    "ease-out": 114,
+    "fx:debris": 15,
+    "fx:radial-burst": 25
+   },
+   "fx": [
+    "debris",
+    "radial-burst"
+   ],
+   "has_scenes": true,
+   "hook": "其他",
+   "ip": false,
+   "metaphors": 8,
+   "num": 25,
+   "skeleton": "A",
+   "style_primary": "漫画网点",
+   "totem": ""
+  },
+  "production26": {
+   "A1": "一间**水墨账房兼兑付窗口**：厚木柜台横在画面下三分之一，柜台后是顶到梁的票证抽屉柜，柜台上方墙上挂着那把黄铜闸刀与一道闸盒；窗口外是一条**墨色的河**（数据顺流被抽走），河上有霓虹色的数据流灯。头顶一盏吊灯打光，墙上贴红头告示与朱印封条。**有光（吊灯光+窗外霓虹）、有台面（柜台）、有站得下人的地板（柜台前那块青砖地）。**",
+   "A2": "① **三层浓淡墨**做纵深（远山淡墨 / 中景柜台 / 前景票匣），不用透视变形；",
+   "colors": {
+    "accent": "178,38,36",
+    "accent2": "38,86,116",
+    "bg": "234,228,213",
+    "ink": "22,26,30"
+   },
+   "easing": {
+    "ease-in": 20,
+    "ease-in-out": 18,
+    "ease-out": 75,
+    "ease-out-back": 4,
+    "fx:debris": 7,
+    "fx:radial-burst": 16
+   },
+   "fx": [
+    "debris",
+    "radial-burst"
+   ],
+   "has_scenes": true,
+   "hook": "其他",
+   "ip": true,
+   "metaphors": 9,
+   "num": 26,
+   "skeleton": "C",
+   "style_primary": "国潮水墨",
+   "totem": ""
+  },
+  "production8": {
+   "A1": "",
+   "A2": "",
+   "colors": {
+    "accent": "30,130,150",
+    "accent2": "235,120,45",
+    "bg": "234,238,244",
+    "fg": "28,36,52"
+   },
+   "easing": {
+    "ease-in": 13,
+    "ease-in-out": 12,
+    "ease-out": 87,
+    "ease-out-back": 39,
+    "fx:debris": 15,
+    "fx:radial-burst": 15
+   },
+   "fx": [
+    "debris",
+    "radial-burst"
+   ],
+   "has_scenes": true,
+   "hook": "数字冲击",
+   "ip": false,
+   "metaphors": 10,
+   "num": 8,
+   "skeleton": "C",
+   "style_primary": "等距2.5D",
+   "totem": ""
+  },
+  "production9": {
+   "A1": "",
+   "A2": "",
+   "colors": {
+    "accent": "225,50,45",
+    "accent2": "40,90,200",
+    "bg": "250,240,222",
+    "fg": "20,20,22"
+   },
+   "easing": {
+    "ease-in": 29,
+    "ease-in-out": 39,
+    "ease-out": 93,
+    "ease-out-back": 66,
+    "fx:debris": 21,
+    "fx:radial-burst": 21
+   },
+   "fx": [
+    "debris",
+    "radial-burst"
+   ],
+   "has_scenes": true,
+   "hook": "其他",
+   "ip": true,
+   "metaphors": 11,
+   "num": 9,
+   "skeleton": "B",
+   "style_primary": "漫画网点",
+   "totem": ""
+  }
+ }
+}

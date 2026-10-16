@@ -1,0 +1,211 @@
+{
+ "production1": {
+  "colors": {
+   "主色1": "F3ECDD",
+   "主色2": "D6C5A6",
+   "主色3": "2B221A",
+   "主色4": "E06A20",
+   "强调色": "3A8C5A"
+  }
+ },
+ "production2": {
+  "colors": {
+   "bg": "1E2837",
+   "accent": "C82834",
+   "gold": "DCA83C"
+  }
+ },
+ "production3": {
+  "colors": {
+   "bg": "181E34",
+   "accent": "28AFC0",
+   "purple": "8C50C8"
+  }
+ },
+ "production4": {
+  "colors": {
+   "bg": "182C26",
+   "chalkwhite": "EEECE4",
+   "chalkyellow": "F5CD5A",
+   "chalkteal": "78C8BE"
+  }
+ },
+ "production5": {
+  "colors": {
+   "bg": "141628",
+   "blue": "3C82E6",
+   "lime": "A0D250"
+  }
+ },
+ "production8": {
+  "colors": {
+   "主色1": "#EAEEF4",
+   "主色2": "#1C2434",
+   "主色3": "#1E8296",
+   "主色4": "#EB782D"
+  },
+  "preview": "H:/VOX-Video-Qwen/palettes_preview/production8.png"
+ },
+ "production9": {
+  "colors": {
+   "主色1": "#FAF0DE",
+   "主色2": "#141416",
+   "主色3": "#E1322D",
+   "主色4": "#285AC8"
+  },
+  "preview": "H:/VOX-Video-Qwen/palettes_preview/production9.png"
+ },
+ "production11": {
+  "colors": {
+   "主色1": "#E2EEE2",
+   "主色2": "#18262E",
+   "主色3": "#EC582A",
+   "主色4": "#2E84B4"
+  },
+  "preview": "H:/VOX-Video-Qwen/palettes_preview/production11.png"
+ },
+ "production10": {
+  "colors": {
+   "主色1": "#F8F8F4",
+   "主色2": "#1E2228",
+   "主色3": "#DC463C",
+   "主色4": "#146EBE"
+  },
+  "preview": "H:/VOX-Video-Qwen/palettes_preview/production10.png"
+ },
+ "production12": {
+  "colors": {
+   "主色1": "#F0E8D6",
+   "主色2": "#1A2644",
+   "主色3": "#E8B240",
+   "主色4": "#A83A6E"
+  },
+  "preview": "H:/VOX-Video-Qwen/palettes_preview/production12.png"
+ },
+ "production13": {
+  "colors": {
+   "主色1": "#ECF0EC",
+   "主色2": "#082824",
+   "主色3": "#00BAC6",
+   "主色4": "#CE3E34"
+  },
+  "preview": "H:/VOX-Video-Qwen/palettes_preview/production13.png"
+ },
+ "production14": {
+  "colors": {
+   "主色1": "#2B2140",
+   "主色2": "#F2EAD8",
+   "主色3": "#3CB4FF",
+   "主色4": "#B0E23C"
+  },
+  "preview": "H:/VOX-Video-Qwen/palettes_preview/production14.png"
+ },
+ "production15": {
+  "colors": {
+   "主色1": "#2A141A",
+   "主色2": "#F0F4F2",
+   "主色3": "#FF6B3D",
+   "主色4": "#4DE0C8"
+  },
+  "preview": "H:/VOX-Video-Qwen/palettes_preview/production15.png"
+ },
+ "production16": {
+  "colors": {
+   "主色1": "#E9E7DE",
+   "主色2": "#171A22",
+   "主色3": "#6A4CFF",
+   "主色4": "#E4377B"
+  },
+  "preview": "H:/VOX-Video-Qwen/palettes_preview/production16.png"
+ },
+ "production17": {
+  "colors": {
+   "主色1": "#C9D2CE",
+   "主色2": "#14201E",
+   "主色3": "#D9A400",
+   "主色4": "#B03A2E"
+  },
+  "preview": ""
+ },
+ "production18": {
+  "colors": {
+   "主色1": "#181A1C",
+   "主色2": "#ECE8DE",
+   "主色3": "#B03028",
+   "主色4": "#386678"
+  },
+  "preview": ""
+ },
+ "production19": {
+  "colors": {
+   "主色1": "#EEF3F7",
+   "主色2": "#182030",
+   "主色3": "#E87818",
+   "主色4": "#148C84"
+  },
+  "preview": ""
+ },
+ "production20": {
+  "colors": {
+   "主色1": "#0E141A",
+   "主色2": "#EAF0F3",
+   "主色3": "#28BEDC",
+   "主色4": "#FFB020"
+  },
+  "preview": ""
+ },
+ "production21": {
+  "colors": {
+   "主色1": "#EEE0C4",
+   "主色2": "#1E1B18",
+   "主色3": "#CA3426",
+   "主色4": "#00748A"
+  },
+  "preview": ""
+ },
+ "production22": {
+  "colors": {
+   "主色1": "#969678",
+   "主色2": "#161A18",
+   "主色3": "#F6DE68",
+   "主色4": "#601C1E"
+  },
+  "preview": "H:/VOX-Video-Qwen/palettes_preview/production22.png"
+ },
+ "production23": {
+  "colors": {
+   "主色1": "#E2EEE2",
+   "主色2": "#18262E",
+   "主色3": "#F08C16",
+   "主色4": "#2260BE"
+  },
+  "preview": "H:/VOX-Video-Qwen/palettes_preview/production23.png"
+ },
+ "production24": {
+  "colors": {
+   "主色1": "e4eaf0",
+   "主色2": "1a2230",
+   "主色3": "0094b2",
+   "主色4": "82be3c"
+  },
+  "preview": "H:/VOX-Video-Qwen/palettes_preview/production24.png"
+ },
+ "production25": {
+  "colors": {
+   "主色1": "1a1c26",
+   "主色2": "f2eee4",
+   "主色3": "eb373c",
+   "主色4": "3c82eb"
+  },
+  "preview": "H:/VOX-Video-Qwen/palettes_preview/production25.png"
+ },
+ "production26": {
+  "colors": {
+   "主色1": "#EAE4D5",
+   "主色2": "#161A1E",
+   "主色3": "#B22624",
+   "主色4": "#265674"
+  },
+  "preview": "H:/VOX-Video-Qwen/palettes_preview/production26.png"
+ }
+}
